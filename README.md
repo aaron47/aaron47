@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aaron Borgi</h1>
 # Hi there, I'm Aaron 👋
 
 ## About Me
